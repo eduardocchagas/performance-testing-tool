@@ -1,0 +1,23 @@
+	,	,	,	,Quantidades,	,	,  	,	,	,Tamanhos,	,	,  	,	,Tempo (ms),	,	,	,	
+Tela, Nome do Arquivo,img,css,js,html,outros,total,img,css,js,html,outros,total,Blocking,Waiting,Receiving,Total,Page load, On Content Load
+ Home,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+18-03-37.har,34,11,12,14,8,79,842363,335256,654536,140766,489846,2462767,107429,17460,21616,146505,14580,7822
+ Noticia ,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+18-03-55.har,2,0,1,10,2,15,4066,0,7562,416747,167,428542,792,2811,1905,5508,7402,5663
+ Home2,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+18-04-14.har,11,0,1,9,1,22,191066,0,7562,139271,167,338066,3793,4675,2449,10917,8729,7116
+Home,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+18-09-33.har,34,11,12,14,8,79,842363,335256,654536,140717,489846,2462718,106343,15736,19851,141930,13927,7237
+ Noticia ,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+18-09-51.har,2,0,1,10,2,15,4066,0,7562,416746,167,428541,780,3322,1735,5837,7158,5444
+ Home2,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+18-10-10.har,11,0,1,9,1,22,191066,0,7562,139409,167,338204,3237,4108,2579,9924,8698,6484
+Home,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+18-11-32.har,34,11,12,14,8,79,842363,335256,654536,140832,489846,2462833,144056,16612,21277,181945,14182,6317
+ Noticia ,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+18-11-49.har,2,0,1,10,2,15,4066,0,7562,416753,167,428548,768,2765,1761,5294,7323,5625
+ Home2,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+18-12-08.har,11,0,1,9,1,22,191066,0,7562,139310,167,338105,2792,4220,2444,9456,8831,6466
+Home,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+19-26-27.har,34,11,12,14,8,79,842363,333805,658303,140610,489846,2464927,112751,12983,20522,146256,19646,7548
+ Noticia ,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+19-26-45.har,2,0,1,10,2,15,4066,0,7562,416747,167,428542,744,3257,1976,5977,7044,5653
+ Home2,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+19-27-05.har,11,0,1,9,1,22,191066,0,7562,139244,167,338039,2378,4595,2739,9712,8921,6553
+Home,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+19-28-06.har,34,11,12,14,8,79,842363,335256,659496,140516,489846,2467477,105695,14146,21042,140883,13302,6892
+ Noticia ,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+19-28-24.har,2,0,1,10,2,15,4066,0,7562,416747,167,428542,805,2949,1795,5549,7305,5564
+ Home2,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+19-28-43.har,11,0,1,9,1,22,191066,0,7562,139127,167,337922,2254,4276,2794,9324,8894,6562
+Home,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+21-29-32.har,34,11,12,14,8,79,842363,329448,654536,140738,489846,2456931,117636,13182,20546,151364,18019,6734
+ Noticia ,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+21-35-19.har,34,11,12,14,8,79,842363,325092,654536,140657,489846,2452494,109814,15311,19900,145025,31862,14176
+ Home2,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+21-35-38.har,2,0,1,10,2,15,4066,0,7562,416746,167,428541,918,3233,1811,5962,7620,5921
+Home,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+21-35-58.har,11,0,1,9,1,22,191066,0,7562,138962,167,337757,3311,4341,2503,10155,10144,7484
+ Noticia ,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+21-37-08.har,34,11,12,14,8,79,842363,314543,654536,140623,489846,2441911,127158,15726,22763,165647,21580,8621
+ Home2,C:\Users\admin\workspace\testSelenium\src\harRepository\testeUfop2015\www.cead.ufop.br+2015-03-07+21-37-29.har,2,0,1,10,2,15,4066,0,7562,416748,167,428543,963,5279,1788,8030,9754,6964

@@ -1,0 +1,202 @@
+	,	,	,	,Quantidades,	,	,  	,	,	,Tamanhos,	,	,  	,	,Tempo (ms),	,	,	,	
+Tela, Nome do Arquivo,img,css,js,html,outros,total,img,css,js,html,outros,total,Blocking,Waiting,Receiving,Total,Page load, On Content Load
+ Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-22+23-49-06.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1804,1887,700,4391,5032,4345
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-22+23-49-22.har,1,0,1,1,0,3,35,0,41,8856,0,8932,170,448,7,625,3856,3587
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-22+23-49-37.har,1,0,1,1,0,3,35,0,41,7496,0,7572,172,470,6,648,4014,3724
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-22+23-50-00.har,1,0,1,1,0,3,35,0,41,4661,0,4737,198,3465,6,3669,6895,6681
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-22+23-57-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1749,1716,655,4120,4886,4200
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-22+23-57-16.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,484,0,671,3922,3649
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-22+23-57-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,175,452,15,642,3873,3598
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-22+23-57-54.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3479,0,3666,6810,6578
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-05-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1781,2136,655,4572,4948,4266
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-05-16.har,1,0,1,1,0,3,35,0,41,8856,0,8932,172,437,15,624,3813,3543
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-05-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,453,0,640,3774,3484
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-05-54.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3433,0,3620,6790,6551
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-13-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1671,2230,906,4807,5031,4141
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-13-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,202,484,0,686,3872,3600
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-13-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,469,0,656,3759,3493
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-13-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,203,3479,16,3698,6834,6588
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-21-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1717,1966,763,4446,4795,4127
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-21-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,172,467,16,655,3789,3507
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-21-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,171,468,16,655,3816,3537
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-21-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,203,3478,0,3681,6930,6701
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-29-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1745,1981,593,4319,4983,4204
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-29-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,468,0,655,3895,3619
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-29-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,483,0,670,3782,3510
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-29-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,171,3448,0,3619,6788,6548
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-37-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1998,1873,561,4432,5097,4214
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-37-16.har,1,0,1,1,0,3,35,0,41,8856,0,8932,171,438,15,624,3832,3566
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-37-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,188,452,16,656,3724,3460
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-37-54.har,1,0,1,1,0,3,35,0,41,4661,0,4737,172,3479,0,3651,6845,6609
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-45-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,2433,1403,560,4396,5495,4815
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-45-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,156,435,0,591,3816,3546
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-45-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,173,469,0,642,3806,3548
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-45-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3447,0,3634,6831,6609
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-53-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1638,2153,653,4444,4905,4184
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-53-16.har,1,0,1,1,0,3,35,0,41,8856,0,8932,172,438,0,610,3828,3549
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-53-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,468,0,655,3758,3516
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+00-53-54.har,1,0,1,1,0,3,35,0,41,4661,0,4737,172,3462,0,3634,6842,6616
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-01-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1733,2154,562,4449,4998,4150
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-01-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,172,482,0,654,3939,3694
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-01-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,468,0,655,3807,3515
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-01-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,188,3478,0,3666,6783,6553
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-09-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1731,1871,579,4181,5062,4189
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-09-16.har,1,0,1,1,0,3,35,0,41,8856,0,8932,172,482,0,654,3877,3613
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-09-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,174,468,0,642,3689,3431
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-09-54.har,1,0,1,1,0,3,35,0,41,4661,0,4737,202,3511,0,3713,6815,6585
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-17-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1839,1217,576,3632,4819,4170
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-17-16.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,469,0,656,3804,3533
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-17-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,172,468,15,655,3723,3444
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-17-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,203,3494,0,3697,6882,6648
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-25-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1746,2233,706,4685,5042,4187
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-25-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,469,0,656,3879,3621
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-25-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,156,484,0,640,3702,3484
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-25-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3495,0,3682,6874,6644
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-33-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1747,1999,812,4558,4873,4192
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-33-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,455,16,658,3904,3574
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-33-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,156,469,0,625,3765,3514
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-33-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,171,3469,0,3640,6832,6619
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-41-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1793,1919,749,4461,5016,4151
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-41-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,172,466,16,654,3983,3766
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-41-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,172,483,0,655,3812,3569
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-41-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,188,3480,0,3668,6850,6608
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-49-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1687,1872,561,4120,5052,4272
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-49-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,436,0,623,3909,3644
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-49-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,172,437,0,609,3819,3530
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-49-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3462,0,3649,6781,6550
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-57-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1656,2214,594,4464,5102,4233
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-57-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,171,421,16,608,3961,3685
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-57-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,437,0,624,3820,3559
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+01-57-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3465,0,3652,6763,6543
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-05-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1654,2151,750,4555,5061,4145
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-05-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,172,484,0,656,3816,3532
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-05-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,172,452,15,639,3749,3469
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-05-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3450,16,3653,6745,6523
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-13-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,2256,1965,563,4784,5291,4596
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-13-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,172,453,0,625,3800,3528
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-13-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,203,468,0,671,3748,3479
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-13-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,203,3448,0,3651,6779,6553
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-21-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1561,2370,547,4478,5046,4190
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-21-18.har,1,0,1,1,0,3,35,0,41,8856,0,8932,171,485,15,671,3817,3548
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-21-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,172,437,16,625,3717,3478
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-21-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,171,3449,15,3635,6739,6512
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-29-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1623,1951,624,4198,4967,4290
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-29-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,437,16,640,3861,3578
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-29-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,468,0,655,3838,3560
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-29-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,203,3448,0,3651,6869,6652
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-37-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1701,2214,577,4492,5018,4185
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-37-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,203,468,0,671,3850,3600
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-37-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,156,484,0,640,3674,3455
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-37-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3479,0,3666,6887,6645
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-45-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1732,2013,579,4324,4826,4115
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-45-16.har,1,0,1,1,0,3,35,0,41,8856,0,8932,172,468,15,655,3822,3541
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-45-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,172,469,0,641,3817,3521
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-45-54.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3449,0,3636,6859,6631
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-53-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1713,2264,545,4522,4842,4025
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-53-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,188,452,0,640,3830,3555
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-53-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,483,16,686,3854,3539
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+02-53-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,218,3511,0,3729,6832,6614
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-01-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1749,1997,547,4293,4801,4165
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-01-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,188,452,16,656,3795,3510
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-01-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,172,466,0,638,3716,3466
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-01-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,171,3480,0,3651,6771,6523
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-09-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1762,1795,577,4134,4994,4308
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-09-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,469,15,671,3914,3643
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-09-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,452,0,639,3841,3546
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-09-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,266,3465,0,3731,6836,6617
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-17-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1693,2267,560,4520,4973,4167
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-17-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,172,469,0,641,3815,3534
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-17-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,203,514,0,717,3867,3580
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-17-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,218,3495,16,3729,6863,6629
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-25-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1824,1592,718,4134,4814,4128
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-25-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,171,500,0,671,3871,3591
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-25-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,172,483,0,655,3760,3500
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-25-54.har,1,0,1,1,0,3,35,0,41,4661,0,4737,172,3480,0,3652,6802,6563
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-32-59.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1651,1936,606,4193,4894,4092
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-33-15.har,1,0,1,1,0,3,35,0,41,8856,0,8932,172,483,0,655,3804,3539
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-33-30.har,1,0,1,1,0,3,35,0,41,7496,0,7572,156,452,16,624,3681,3413
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-33-53.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3495,15,3697,6782,6553
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-41-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1780,1904,765,4449,5036,4226
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-41-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,171,453,16,640,3811,3513
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-41-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,172,451,0,623,3838,3554
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-41-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3463,0,3650,7060,6839
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-49-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1798,1388,765,3951,4913,4093
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-49-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,172,452,15,639,3887,3626
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-49-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,188,453,16,657,3716,3442
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-49-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3464,0,3651,6852,6618
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-57-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1668,2261,565,4494,5005,4131
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-57-16.har,1,0,1,1,0,3,35,0,41,8856,0,8932,172,453,0,625,3834,3556
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-57-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,484,0,671,3711,3433
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+03-57-54.har,1,0,1,1,0,3,35,0,41,4661,0,4737,203,3479,0,3682,6749,6523
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-05-02.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1653,1794,547,3994,4901,4166
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-05-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,452,0,639,3792,3518
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-05-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,514,0,701,3784,3505
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-05-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3482,15,3684,6804,6569
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-13-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,2295,2104,593,4992,5552,4721
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-13-18.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,483,0,670,3839,3542
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-13-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,172,484,0,656,3701,3437
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-13-56.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3495,16,3698,6786,6560
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-21-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1762,1433,500,3695,4949,4075
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-21-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,453,0,640,3831,3562
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-21-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,172,452,16,640,3872,3625
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-21-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,172,3450,0,3622,6745,6522
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-29-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1743,1950,562,4255,4742,4010
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-29-16.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,484,0,671,3838,3564
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-29-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,218,515,0,733,3796,3531
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-29-54.har,1,0,1,1,0,3,35,0,41,4661,0,4737,218,3465,0,3683,6761,6509
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-37-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1765,2232,545,4542,4963,4130
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-37-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,156,468,0,624,3803,3533
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-37-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,171,469,0,640,3732,3446
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-37-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,218,3510,0,3728,6834,6612
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-45-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1729,2139,779,4647,4817,4164
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-45-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,483,0,670,3829,3527
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-45-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,171,438,15,624,3740,3483
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-45-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,203,3494,16,3713,6935,6696
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-53-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1685,2231,765,4681,4852,4071
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-53-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,188,452,16,656,3813,3531
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-53-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,188,466,0,654,3765,3514
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+04-53-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3463,0,3650,6768,6549
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-01-03.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1652,2170,718,4540,5221,4345
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-01-20.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,452,0,639,4215,4041
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-01-35.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,469,0,656,3870,3609
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-01-59.har,1,0,1,1,0,3,35,0,41,4661,0,4737,203,3479,0,3682,6886,6632
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-09-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1715,2265,560,4540,5142,4267
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-09-18.har,1,0,1,1,0,3,35,0,41,8856,0,8932,172,467,16,655,3924,3649
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-09-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,172,451,16,639,3608,3392
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-09-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3480,0,3667,6745,6524
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-16-59.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1637,2140,577,4354,4792,4119
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-17-15.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,436,16,639,3806,3512
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-17-30.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,451,15,653,3781,3520
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-17-53.har,1,0,1,1,0,3,35,0,41,4661,0,4737,172,3465,15,3652,6820,6596
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-25-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1672,1806,532,4010,4817,4140
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-25-16.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,452,16,655,3834,3564
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-25-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,156,436,0,592,3696,3408
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-25-54.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3447,15,3649,6786,6564
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-33-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1703,2028,577,4308,5112,4231
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-33-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,203,437,0,640,3806,3523
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-33-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,468,0,655,3764,3511
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-33-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3464,16,3667,6862,6610
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-41-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1687,2262,515,4464,4989,4112
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-41-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,171,437,0,608,3787,3512
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-41-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,203,468,0,671,3627,3422
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-41-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,203,3465,15,3683,6919,6769
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-49-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1714,2323,563,4600,5018,4163
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-49-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,468,0,655,3830,3554
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-49-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,187,452,15,654,3809,3534
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-49-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,172,3447,0,3619,6852,6652
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-57-00.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1828,1624,530,3982,4895,4205
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-57-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,203,484,0,687,3778,3504
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-57-31.har,1,0,1,1,0,3,35,0,41,7496,0,7572,203,499,15,717,3834,3565
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+05-57-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,172,3463,0,3635,6739,6507
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+06-05-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1765,1590,561,3916,4883,4200
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+06-05-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,187,467,0,654,3783,3524
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+06-05-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,188,483,0,671,3792,3533
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+06-05-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,172,3463,0,3635,6736,6507
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+06-13-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,2572,2091,532,5195,5870,5094
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+06-13-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,203,468,0,671,3946,3738
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+06-13-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,172,453,0,625,3645,3395
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+06-13-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,171,3449,16,3636,6700,6460
+Search,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+06-21-01.har,1,3,7,1,0,12,35,130353,224371,6083,0,360842,1638,2526,702,4866,4998,4129
+Choose City,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+06-21-17.har,1,0,1,1,0,3,35,0,41,8856,0,8932,173,467,0,640,3802,3524
+Form,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+06-21-32.har,1,0,1,1,0,3,35,0,41,7496,0,7572,188,468,0,656,3753,3489
+Confirm,D:\Monografia\src\harRepository\testeBlaze\blazedemo.com+2015-04-23+06-21-55.har,1,0,1,1,0,3,35,0,41,4661,0,4737,187,3464,15,3666,6913,6698

@@ -1,0 +1,6 @@
+<defaultHarDirectory path="src\harRepository\teste"
+	csvFileName ="teste.csv">
+		<pageName>Home</pageName>
+		<pageName>Cadastro</pageName>
+		<pageName>Home2</pageName>
+</defaultHarDirectory>
